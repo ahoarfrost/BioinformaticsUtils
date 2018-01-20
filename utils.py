@@ -1,6 +1,6 @@
 def kmer_permutations(alphabet, k_size):
     '''
-    This function produces all possible permutations of letters/nucleotides for a given kmer size.
+    This function returns the set of all possible permutations of letters/nucleotides for a given kmer size.
 
     alphabet: a list of the possible letters in your alphabet; e.g. for DNA this is ['A','C','G','T']
 
